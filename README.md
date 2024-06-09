@@ -16,4 +16,13 @@ Deployment and monitoring: This is the last stage in the life cycle of the devel
   
   
   
-  .![Screenshot (19)](https://github.com/R1ah2u3l4/Prudent-Technologies-and-Consultancies/assets/153045039/fdf652e4-ab17-42b9-bbcd-8abf782c7605)
+  .
+  
+  
+  
+  
+  
+  
+  
+  
+  ![Screenshot (19)](https://github.com/R1ah2u3l4/Prudent-Technologies-and-Consultancies/assets/153045039/fdf652e4-ab17-42b9-bbcd-8abf782c7605)
